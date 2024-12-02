@@ -3,7 +3,7 @@ public enum especialidasQuirurgica {
 
 
     private String nombre;
-    private int edificio;
+    private int edificio; //prueba git
     private int planta;
     private String[] cirujanos;
     especialidasQuirurgica(String nombre, int edificio, int planta, String[] cirujanos){
